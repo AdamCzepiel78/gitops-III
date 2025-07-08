@@ -9,7 +9,7 @@ spec:
   generators:
   - pullRequest:
       github:
-        owner: AdamCzepiel78
+        owner: adamczepiel78
         repo: gitops-III
       requeueAfterSeconds: 180
   template:
