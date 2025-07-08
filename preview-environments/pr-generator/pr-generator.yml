@@ -11,6 +11,8 @@ spec:
       github:
         owner: adamczepiel78
         repo: gitops-III
+        labels:
+        - preview-ready
       requeueAfterSeconds: 180
   template:
     metadata:
